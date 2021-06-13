@@ -1,7 +1,6 @@
 # Algorithm_02
 
 # success
-##1
 ![mnist_succ_1](https://user-images.githubusercontent.com/56300092/121802483-66a20200-cc77-11eb-861b-102fa7bebdf4.png)
 ![mnist_succ_2](https://user-images.githubusercontent.com/56300092/121802485-69045c00-cc77-11eb-92e8-e1107776ca0f.png)
 ![mnist_succ_3](https://user-images.githubusercontent.com/56300092/121802486-6ace1f80-cc77-11eb-92d6-42af5a4fc0c9.png)
